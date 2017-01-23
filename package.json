@@ -1,0 +1,24 @@
+{
+  "name": "kitten-bot",
+  "version": "1.0.0",
+  "description": "first bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yosharie/kittenBot.git"
+  },
+  "keywords": [
+    "bot",
+    "kitten",
+    "cute"
+  ],
+  "author": "Ariane Tourangeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yosharie/kittenBot/issues"
+  },
+  "homepage": "https://github.com/Yosharie/kittenBot#readme"
+}
